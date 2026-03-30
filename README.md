@@ -1,2 +1,4 @@
-# epc-retrofit-analysis
-This project explores housing energy performance using publicly available EPC data and simulates how targeted retrofit investments could improve energy efficiency across properties.
+# Housing Energy Performance & Retrofit Simulation
+
+This project explores EPC data for King’s Lynn and West Norfolk and simulates how targeted retrofit investment could improve housing energy efficiency.
+
