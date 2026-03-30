@@ -21,7 +21,8 @@ It goes beyond basic analysis by simulating potential retrofit improvements and 
 
 - `epc_analysis.ipynb` → Data cleaning and simulation  
 - `epc_enriched.csv` → Dataset with predicted improvements  
-- `funded_homes.csv` → Properties selected within budget  
+- `funded_homes.csv` → Properties selected within budget
+- `KingsLynnHousingData.xlsx` → Cleaned data from downloaded copy 
 
 ## Key idea
 
