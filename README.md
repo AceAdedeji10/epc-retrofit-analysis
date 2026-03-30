@@ -1,29 +1,34 @@
 # Housing Energy Performance & Retrofit Simulation
 
-This project explores housing energy performance using publicly available EPC data for King’s Lynn and West Norfolk.
+This project explores housing energy performance using publicly available EPC data for King’s Lynn and West Norfolk, and simulates how targeted retrofit investment could improve energy efficiency across properties.
 
-It goes beyond basic analysis by simulating potential retrofit improvements and modelling how a fixed investment budget could be allocated to maximise impact.
+Rather than stopping at descriptive analysis, the project introduces a simple decision-making layer by modelling potential improvements and a fixed budget scenario.
 
-## What the project does
+## Project Overview
 
-- Analyses current EPC ratings across properties  
-- Identifies areas with lower energy efficiency  
-- Simulates potential EPC improvements  
-- Models a £5M retrofit budget scenario  
+The workflow includes:
 
-## Tools used
+- Analysing current EPC ratings across properties  
+- Identifying areas with lower energy efficiency  
+- Simulating potential EPC improvements  
+- Modelling a £5M retrofit budget to prioritise upgrades  
+
+## Key Insight
+
+The analysis shows how a targeted investment approach can upgrade a significant number of lower-rated homes, improving overall energy performance and highlighting where interventions would have the greatest impact.
+
+## Tools Used
 
 - Python (Pandas, NumPy)  
-- Power BI  
+- Power BI (for visualisation)  
 - Public EPC dataset  
 
-## Files
+## Repository Structure
 
-- `epc_analysis.ipynb` → Data cleaning and simulation  
-- `epc_enriched.csv` → Dataset with predicted improvements  
-- `funded_homes.csv` → Properties selected within budget
-- `KingsLynnHousingData.xlsx` → Cleaned data from downloaded copy 
+- `epc_analysis.ipynb` → Data cleaning, transformation, and simulation  
+- `epc_enriched.csv` → Full dataset with predicted EPC improvements  
+- `funded_homes.csv` → Properties selected within the simulated budget  
 
-## Key idea
+## Why This Matters
 
-The project demonstrates how data can move from describing current performance to supporting real-world decision-making around housing improvements.
+This project demonstrates how data can move beyond reporting into decision support, helping to prioritise housing improvements in a practical and scalable way.
