@@ -1,0 +1,715 @@
+POSTCODE,POSTCODE_DISTRICT,CURRENT_ENERGY_RATING,CURRENT_ENERGY_EFFICIENCY,PROPERTY_TYPE,BUILT_FORM,MAINHEAT_DESCRIPTION,EPC_NUMERIC,PREDICTED_EPC_NUMERIC,PREDICTED_EPC_RATING,IMPROVEMENT_SCORE,IMPACT_CATEGORY,ESTIMATED_COST
+PE14 9SA,PE14,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 5AZ,PE36,G,13,Bungalow,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 0EA,PE33,G,16,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0BW,PE38,G,5,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 5AL,PE36,G,7,Flat,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 9JP,PE33,G,9,House,Detached,"Boiler and radiators, anthracite",7,5,E,2,High Impact,7000
+PE31 6TB,PE31,G,20,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE36 5AL,PE36,G,16,Flat,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 8AF,PE14,G,19,House,Detached,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE30 1NN,PE30,G,17,Flat,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9EN,PE33,G,1,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 2JT,PE32,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 7SD,PE14,G,19,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+NR21 9PJ,NR21,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 9DP,PE14,G,19,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 9ES,PE33,G,18,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 3PP,PE34,G,9,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 9QA,PE14,G,19,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0DT,PE38,G,18,Bungalow,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 6QD,PE31,G,10,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8RG,PE31,G,17,House,Mid-Terrace,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE33 9DQ,PE33,G,13,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0AL,PE38,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1PF,PE32,G,11,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE38 0HJ,PE38,G,1,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 4NW,PE30,G,16,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8DX,PE14,G,1,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 1QP,PE32,G,20,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+NR21 9LX,NR21,G,6,House,Semi-Detached,"Boiler and underfloor heating, electric",7,5,E,2,High Impact,7000
+NR21 9LF,NR21,G,17,House,End-Terrace,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 9HN,PE14,G,13,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 4AJ,PE34,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 7TD,PE14,G,20,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 2HD,PE32,G,8,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE38 0JP,PE38,G,14,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 7LJ,PE31,G,13,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+NR21 9LH,NR21,G,17,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6TN,PE31,G,4,Bungalow,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 5HD,PE30,G,15,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4JU,PE34,G,20,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 9EG,PE38,G,13,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE36 5AL,PE36,G,1,Flat,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 6RN,PE31,G,11,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 5ES,PE30,G,14,Flat,Enclosed Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8EQ,PE14,G,15,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE36 5AZ,PE36,G,20,Bungalow,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+NR21 9JF,NR21,G,14,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE36 5JU,PE36,G,14,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 7NR,PE14,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE38 0BQ,PE38,G,10,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE38 0AP,PE38,G,16,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+IP26 4PP,IP26,G,1,Bungalow,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+IP26 4PQ,IP26,G,15,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 1QP,PE32,G,20,House,Detached,"Room heaters, wood logs",7,5,E,2,High Impact,7000
+PE31 8NW,PE31,G,1,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 7LH,PE31,G,6,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 5JP,PE30,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1EW,PE32,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE30 1NZ,PE30,G,1,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 5HD,PE30,G,14,House,Mid-Terrace,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE33 0JJ,PE33,G,14,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 8JP,PE14,G,8,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 6BY,PE31,G,7,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 7AP,PE14,G,13,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8QN,PE31,G,10,House,Detached,"Room heaters, wood logs",7,5,E,2,High Impact,7000
+PE14 7EF,PE14,G,20,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 1RJ,PE32,G,8,Bungalow,Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE14 8HB,PE14,G,1,House,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE33 9QN,PE33,G,13,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 2HR,PE32,G,5,Bungalow,Detached,"Boiler and radiators, coal",7,5,E,2,High Impact,7000
+IP26 4JE,IP26,G,3,Bungalow,Detached,"Warm air, Electricaire",7,5,E,2,High Impact,7000
+PE31 7LW,PE31,G,1,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 4SQ,PE30,G,18,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 8RQ,PE31,G,1,House,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE36 6HQ,PE36,G,15,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 7AX,PE31,G,15,Bungalow,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9HB,PE14,G,11,House,Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE38 9DW,PE38,G,14,House,Mid-Terrace,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE34 4NA,PE34,G,19,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4AB,PE34,G,11,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 9RB,PE14,G,6,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0NG,PE38,G,3,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE36 6LY,PE36,G,17,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 5AS,PE30,G,14,House,Mid-Terrace,"Room heaters, mains gas",7,5,E,2,High Impact,7000
+PE34 4PA,PE34,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 8PA,PE14,G,11,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 9HH,PE33,G,15,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9AU,PE14,G,12,Flat,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE30 4AS,PE30,G,5,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 4BP,PE34,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 9EJ,PE33,G,1,House,Semi-Detached,"Room heaters, smokeless fuel",7,5,E,2,High Impact,7000
+PE33 0BH,PE33,G,14,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 3QL,PE34,G,10,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 4QE,PE30,G,12,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8PQ,PE14,G,19,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8HA,PE31,G,16,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE33 0RE,PE33,G,15,House,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 0JS,PE38,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 4QG,PE34,G,18,House,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 9TW,PE14,G,16,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 4RF,PE30,G,20,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 9AU,PE14,G,19,Flat,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE36 5EL,PE36,G,17,Flat,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0BH,PE38,G,18,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 1UA,PE32,G,17,House,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE32 1JE,PE32,G,13,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE33 9EL,PE33,G,8,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 5JF,PE30,G,20,Maisonette,Detached,"Warm air, electric",7,5,E,2,High Impact,7000
+PE14 8SH,PE14,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 9RG,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 8SF,PE31,G,13,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9JA,PE14,G,1,House,Detached,"Boiler and radiators, bottled LPG",7,5,E,2,High Impact,7000
+PE14 8RH,PE14,G,15,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 9PZ,PE33,G,5,House,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE14 7BH,PE14,G,14,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 8JN,PE14,G,1,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8SG,PE14,G,19,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 8ES,PE14,G,10,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+NR21 9JT,NR21,G,2,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 0JW,PE33,G,11,House,Detached,"Boiler and radiators, anthracite",7,5,E,2,High Impact,7000
+PE34 4NE,PE34,G,10,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 9EA,PE14,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 4HL,PE34,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 7EJ,PE14,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1QP,PE32,G,20,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4AL,IP26,G,13,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 4PH,PE34,G,14,Bungalow,Detached,"Boiler and radiators, bottled LPG",7,5,E,2,High Impact,7000
+PE34 4PL,PE34,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 1AQ,PE30,G,17,Flat,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9EW,PE14,G,17,Bungalow,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 6AX,PE31,G,15,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6BU,PE31,G,17,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 0BG,PE33,G,10,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 3PT,PE34,G,14,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 5AH,PE30,G,14,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 9AT,PE38,G,11,Flat,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4LN,PE34,G,17,Bungalow,Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE31 7LJ,PE31,G,1,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0EJ,PE38,G,15,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4RQ,IP26,G,11,Bungalow,Detached,"Boiler and radiators, coal",7,5,E,2,High Impact,7000
+PE33 9DX,PE33,G,7,Flat,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 6NZ,PE31,G,9,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 6LD,PE31,G,9,Bungalow,Detached,"Room heaters, LPG",7,5,E,2,High Impact,7000
+IP26 4DP,IP26,G,19,Flat,Mid-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8BP,PE31,G,1,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4RB,IP26,G,19,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 1QP,PE32,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE30 1QD,PE30,G,13,House,Detached,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE34 3BD,PE34,G,6,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1JW,PE32,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4DJ,IP26,G,15,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 9HJ,PE14,G,8,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 7QL,PE31,G,7,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 3AW,PE34,G,17,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+IP26 4PZ,IP26,G,12,Bungalow,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 3BT,PE34,G,15,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+IP26 4HZ,IP26,G,17,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 5LS,PE36,G,11,House,Mid-Terrace,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE14 9RJ,PE14,G,9,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0NR,PE38,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE35 6EN,PE35,G,10,Flat,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4PL,PE34,G,9,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+NR21 9JT,NR21,G,3,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE30 5EU,PE30,G,7,Flat,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 9SY,PE33,G,11,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 7QJ,PE31,G,1,House,End-Terrace,"Room heaters, LPG",7,5,E,2,High Impact,7000
+PE38 0NG,PE38,G,19,House,Semi-Detached,"Boiler and radiators, wood logs",7,5,E,2,High Impact,7000
+PE14 9RQ,PE14,G,20,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 8BB,PE31,G,7,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7JN,PE14,G,17,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 9DU,PE33,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 7EZ,PE31,G,14,Bungalow,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE38 9HF,PE38,G,15,Maisonette,Mid-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE33 9SY,PE33,G,14,House,Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE34 3LJ,PE34,G,9,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 5RF,PE30,G,17,House,Semi-Detached,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE31 8PH,PE31,G,12,House,Semi-Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE32 2EX,PE32,G,1,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE36 5AF,PE36,G,2,Flat,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1DG,PE32,G,1,Bungalow,Detached,"Boiler and radiators, bottled LPG",7,5,E,2,High Impact,7000
+PE33 9QN,PE33,G,13,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 9EW,PE14,G,16,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 3HB,PE34,G,16,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 7EU,PE14,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE38 0EJ,PE38,G,6,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 3DW,PE34,G,20,House,End-Terrace,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE14 7QW,PE14,G,18,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 4AJ,PE34,G,11,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0NG,PE38,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 6HA,PE31,G,1,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 8EN,PE31,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 4PP,PE34,G,1,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0NR,PE38,G,7,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7JG,PE14,G,18,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8SJ,PE31,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 9DW,PE14,G,13,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 2AZ,PE30,G,17,House,End-Terrace,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 8PQ,PE14,G,13,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 3BN,PE34,G,19,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE32 1EJ,PE32,G,1,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 4HR,PE34,G,1,House,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 4DT,PE34,G,20,Flat,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 1EE,PE30,G,20,House,Mid-Terrace,"Room heaters, mains gas",7,5,E,2,High Impact,7000
+PE31 6AZ,PE31,G,10,Bungalow,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0NG,PE38,G,3,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 0NG,PE38,G,12,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 8NW,PE31,G,19,House,End-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE38 0PW,PE38,G,18,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 4BS,PE30,G,12,House,Semi-Detached,"Room heaters, mains gas",7,5,E,2,High Impact,7000
+PE14 8JB,PE14,G,1,Bungalow,Detached,"Room heaters, LPG",7,5,E,2,High Impact,7000
+PE30 2PS,PE30,G,3,House,Mid-Terrace,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE31 6AZ,PE31,G,11,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 9JG,PE14,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 8JL,PE14,G,13,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 7DN,PE14,G,20,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 9EE,PE38,G,10,Flat,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 6AS,PE31,G,16,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0NR,PE38,G,1,House,Semi-Detached,"Room heaters, wood logs",7,5,E,2,High Impact,7000
+PE38 0PU,PE38,G,2,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+IP26 4AJ,IP26,G,12,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8EJ,PE31,G,19,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8NS,PE31,G,1,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 1NQ,PE32,G,15,House,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE33 0JQ,PE33,G,1,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 9BL,PE14,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 9AR,PE14,G,17,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 2EZ,PE32,G,5,House,Mid-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE38 0JU,PE38,G,15,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 6DW,PE31,G,14,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE33 9EL,PE33,G,7,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 9RG,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 0ES,PE33,G,18,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 5PA,PE30,G,16,Flat,Semi-Detached,Electric underfloor heating,7,5,E,2,High Impact,7000
+PE14 8BG,PE14,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 8SL,PE31,G,17,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8PT,PE31,G,12,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 7JU,PE31,G,13,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 7DS,PE31,G,20,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 7XG,PE31,G,8,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 8JL,PE14,G,6,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 9DQ,PE33,G,14,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 8UA,PE31,G,7,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8SJ,PE31,G,17,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE30 2EG,PE30,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 0DH,PE14,G,1,House,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8NL,PE31,G,1,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE30 5PA,PE30,G,1,Flat,Data Unavailable,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE35 6EB,PE35,G,14,House,Enclosed End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 8SL,PE31,G,13,Bungalow,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+IP26 4JG,IP26,G,10,Bungalow,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+IP26 5LA,IP26,G,19,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 6DY,PE31,G,17,Bungalow,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 7RX,PE14,G,20,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4AZ,IP26,G,19,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 0BY,PE33,G,1,House,End-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE30 2QQ,PE30,G,16,Bungalow,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8HA,PE31,G,17,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE14 7DA,PE14,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 0BW,PE38,G,1,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 1JW,PE32,G,17,Bungalow,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE38 0AJ,PE38,G,13,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4LJ,IP26,G,18,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 8PH,PE31,G,1,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8LT,PE31,G,3,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE33 0RH,PE33,G,16,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 5LZ,PE30,G,1,House,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9JP,PE33,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 0HT,PE33,G,20,Bungalow,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE36 5ES,PE36,G,9,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8PQ,PE14,G,14,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1NW,PE32,G,12,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE34 3QB,PE34,G,19,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4QU,PE34,G,15,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4RP,PE34,G,3,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 2AU,PE32,G,1,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE36 6LF,PE36,G,16,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 8UA,PE31,G,2,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 7DW,PE31,G,20,House,Detached,"Boiler and radiators, coal",7,5,E,2,High Impact,7000
+PE33 9AG,PE33,G,20,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4NR,PE34,G,14,House,End-Terrace,"Boiler and radiators, bottled gas",7,5,E,2,High Impact,7000
+PE30 2JF,PE30,G,4,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 7RR,PE14,G,11,House,Mid-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 6BT,PE31,G,1,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 9JA,PE33,G,16,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE30 3LF,PE30,G,16,House,Detached,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE34 4NB,PE34,G,17,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 7XA,PE14,G,16,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8AE,PE14,G,1,Bungalow,Detached,"Room heaters, smokeless fuel",7,5,E,2,High Impact,7000
+PE31 7RB,PE31,G,11,Bungalow,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 9RA,PE14,G,14,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0AW,PE38,G,17,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 5NY,PE36,G,16,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8PH,PE31,G,18,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8JN,PE14,G,17,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 2EY,PE32,G,20,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE31 8QD,PE31,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 0DW,PE14,G,3,House,Mid-Terrace,"Room heaters, mains gas",7,5,E,2,High Impact,7000
+PE38 9DF,PE38,G,14,Maisonette,Mid-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8AA,PE31,G,18,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8JX,PE31,G,16,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1UW,PE32,G,16,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+IP26 5LG,IP26,G,5,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7PG,PE14,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 8EN,PE31,G,18,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+IP26 4NR,IP26,G,9,House,Semi-Detached,"Boiler and radiators, coal",7,5,E,2,High Impact,7000
+PE34 4NR,PE34,G,18,House,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 8PD,PE31,G,14,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE36 6BY,PE36,G,15,House,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1BW,PE32,G,20,Bungalow,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 7LX,PE31,G,16,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8EY,PE14,G,9,Bungalow,Detached,Electric underfloor heating,7,5,E,2,High Impact,7000
+PE33 0DE,PE33,G,20,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE38 0AE,PE38,G,10,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 2EG,PE30,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9QN,PE33,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4JD,IP26,G,17,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 4HZ,PE34,G,5,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 4NB,PE34,G,20,House,Mid-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6ST,PE31,G,13,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE33 9SU,PE33,G,7,House,Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE14 9SW,PE14,G,16,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 9DU,PE33,G,20,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 5QT,PE30,G,15,Maisonette,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE33 9ER,PE33,G,14,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 0SH,PE33,G,17,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 0JB,PE33,G,16,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 3QG,PE34,G,20,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 7JN,PE14,G,17,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0JD,PE38,G,19,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 5PL,PE30,G,11,Flat,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 3DG,PE34,G,1,Bungalow,Mid-Terrace,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE33 9EL,PE33,G,4,House,Semi-Detached,"Boiler and radiators, bottled gas",7,5,E,2,High Impact,7000
+PE32 2BW,PE32,G,15,House,Semi-Detached,"Boiler and radiators, wood pellets",7,5,E,2,High Impact,7000
+PE30 2QJ,PE30,G,12,House,Mid-Terrace,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE30 5EF,PE30,G,20,Flat,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+IP26 4PY,IP26,G,4,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE30 5BP,PE30,G,18,House,End-Terrace,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE14 8RY,PE14,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 0FB,PE33,G,8,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE36 5BP,PE36,G,9,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE30 1EJ,PE30,G,19,Maisonette,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8RL,PE14,G,15,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 8PA,PE14,G,9,House,Semi-Detached,"Boiler and radiators, bottled LPG",7,5,E,2,High Impact,7000
+PE14 7DP,PE14,G,12,House,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE34 4HB,PE34,G,14,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 3QN,PE34,G,11,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7PN,PE14,G,18,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+IP26 4DP,IP26,G,20,Flat,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0JS,PE38,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 9DH,PE38,G,6,Maisonette,Mid-Terrace,Electric underfloor heating,7,5,E,2,High Impact,7000
+NR21 9PQ,NR21,G,2,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 3QB,PE34,G,19,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+IP26 4RQ,IP26,G,7,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 2PQ,PE30,G,7,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9BD,PE33,G,16,Bungalow,Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE34 4DN,PE34,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE38 9HS,PE38,G,17,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8PA,PE14,G,8,House,End-Terrace,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE38 0LW,PE38,G,14,House,Detached,"Boiler and radiators, wood logs",7,5,E,2,High Impact,7000
+NR21 9JT,NR21,G,3,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 7RB,PE31,G,1,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+IP26 4LH,IP26,G,10,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4PX,PE34,G,5,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4NE,PE34,G,13,House,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 0AW,PE38,G,7,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 9RG,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE30 2EG,PE30,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+IP26 4PN,IP26,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 7AY,PE14,G,1,House,Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE36 6EA,PE36,G,8,Maisonette,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4BA,PE34,G,12,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 6TQ,PE31,G,16,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8HD,PE14,G,2,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 0DX,PE38,G,14,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1QD,PE32,G,14,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7AP,PE14,G,19,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 5JW,PE30,G,7,Flat,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE36 5LA,PE36,G,19,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 3QN,PE34,G,1,House,Semi-Detached,Portable electric heating assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 6HA,PE31,G,1,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 7RB,PE31,G,10,Bungalow,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 6XS,PE31,G,6,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE33 9DX,PE33,G,13,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6AZ,PE31,G,1,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 2AR,PE30,G,3,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE36 5JS,PE36,G,17,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 3NT,PE30,G,11,Bungalow,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE30 5LG,PE30,G,3,House,Semi-Detached,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE38 0HT,PE38,G,13,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE31 6LA,PE31,G,16,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE32 2HN,PE32,G,3,House,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 0BJ,PE38,G,2,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE32 1JX,PE32,G,19,House,Semi-Detached,"Boiler and radiators, wood logs",7,5,E,2,High Impact,7000
+IP26 4LP,IP26,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 0HJ,PE33,G,19,House,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 0JQ,PE33,G,9,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE36 6LH,PE36,G,1,House,Mid-Terrace,"Room heaters, smokeless fuel",7,5,E,2,High Impact,7000
+PE14 8SD,PE14,G,13,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1SG,PE32,G,18,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+IP26 4QR,IP26,G,1,House,Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE33 9HE,PE33,G,13,House,End-Terrace,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE30 5LT,PE30,G,20,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 9BA,PE33,G,17,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 1EG,PE30,G,14,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 5PY,PE30,G,15,Flat,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8TL,PE14,G,7,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 3QN,PE34,G,1,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE38 9DH,PE38,G,17,Flat,Detached,Electric underfloor heating,7,5,E,2,High Impact,7000
+PE30 2EG,PE30,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1YB,PE32,G,16,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 5AZ,PE30,G,5,Bungalow,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 3LJ,PE34,G,10,House,Mid-Terrace,Portable electric heating assumed for most rooms,7,5,E,2,High Impact,7000
+PE32 1LG,PE32,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 8NG,PE31,G,11,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 1TT,PE32,G,1,Bungalow,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE36 6JW,PE36,G,5,House,End-Terrace,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 7QD,PE14,G,1,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6AL,PE31,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4AN,IP26,G,17,House,Mid-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 9EH,PE14,G,1,Bungalow,Semi-Detached,"Room heaters, anthracite",7,5,E,2,High Impact,7000
+PE34 3QE,PE34,G,17,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8RQ,PE14,G,1,House,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 7PN,PE14,G,14,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 3DG,PE34,G,15,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 4JW,PE34,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 7EX,PE14,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE34 3BX,PE34,G,9,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8PX,PE14,G,10,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1JW,PE32,G,17,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 6PN,PE31,G,6,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 1EG,PE32,G,7,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 3HB,PE34,G,18,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8NW,PE31,G,20,House,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 3QQ,PE34,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 2EG,PE30,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9EW,PE33,G,8,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 2BE,PE32,G,5,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9BA,PE33,G,10,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 2EG,PE30,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 3HX,PE34,G,15,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 4BB,PE30,G,20,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4PD,PE34,G,14,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE36 6JD,PE36,G,18,House,Detached,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE14 7PA,PE14,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 9HL,PE14,G,17,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 6AZ,PE31,G,9,Bungalow,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+IP26 5LN,IP26,G,15,House,Detached,"Boiler and radiators, anthracite",7,5,E,2,High Impact,7000
+IP26 5NQ,IP26,G,14,Bungalow,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE30 1QD,PE30,G,20,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8EQ,PE14,G,16,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 1AG,PE30,G,2,Flat,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 9BA,PE33,G,4,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 1JW,PE32,G,1,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 8BD,PE31,G,18,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 4LH,PE34,G,7,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9RG,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 7RZ,PE31,G,19,House,Mid-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 1QT,PE32,G,13,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 4XG,PE30,G,18,House,End-Terrace,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE34 3QN,PE34,G,1,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8RG,PE31,G,20,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 3QF,PE34,G,16,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+IP26 4BJ,IP26,G,3,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 7QQ,PE14,G,17,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 9SF,PE33,G,3,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 1LR,PE32,G,10,Bungalow,Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE33 9QS,PE33,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 9HD,PE33,G,20,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE38 0NG,PE38,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 7RB,PE31,G,12,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+NR21 9LQ,NR21,G,18,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 8PT,PE14,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 1DB,PE30,G,7,Flat,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8AS,PE14,G,17,Bungalow,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8AS,PE31,G,17,House,Mid-Terrace,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE38 0BY,PE38,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 3BT,PE34,G,5,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE33 9QW,PE33,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE14 8RY,PE14,G,17,House,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 4PQ,PE34,G,15,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 8PA,PE14,G,11,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 5LR,PE36,G,12,House,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 3HX,PE34,G,15,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE33 9ES,PE33,G,10,Bungalow,Detached,"Boiler and underfloor heating, oil",7,5,E,2,High Impact,7000
+PE31 8SF,PE31,G,13,House,Detached,"Boiler and radiators, bottled gas",7,5,E,2,High Impact,7000
+PE14 9JN,PE14,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 7PN,PE14,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 3QN,PE34,G,1,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8SL,PE31,G,18,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9AL,PE14,G,1,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8SH,PE14,G,11,Bungalow,Detached,"Boiler and radiators, coal",7,5,E,2,High Impact,7000
+PE14 7NT,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 9HQ,PE14,G,16,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 8JF,PE14,G,12,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 7AW,PE31,G,12,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8RH,PE14,G,17,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+IP26 4PQ,IP26,G,11,House,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE38 0JN,PE38,G,9,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 7EY,PE31,G,9,Maisonette,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 7DN,PE14,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 7QH,PE14,G,1,House,Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE38 9DA,PE38,G,9,Flat,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8DR,PE31,G,17,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 6DN,PE31,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE36 5AH,PE36,G,6,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+IP26 4QP,IP26,G,7,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4PD,PE34,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE30 5NA,PE30,G,17,House,End-Terrace,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 4RZ,PE34,G,1,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 7RP,PE14,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 4NB,PE34,G,16,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 8UA,PE31,G,20,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 1NF,PE30,G,1,House,Mid-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+IP26 4PE,IP26,G,15,Bungalow,Enclosed End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 8AE,PE31,G,13,Bungalow,Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE38 0AL,PE38,G,3,House,Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+IP26 4PS,IP26,G,13,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 0BN,PE33,G,18,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE38 0JQ,PE38,G,19,Bungalow,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 2HS,PE32,G,20,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+IP26 4LX,IP26,G,17,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 7NT,PE14,G,14,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1PP,PE32,G,18,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 7SN,PE14,G,10,House,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8HN,PE31,G,1,House,Mid-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8ER,PE31,G,7,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 7ES,PE14,G,18,Bungalow,Detached,"Boiler and radiators, anthracite",7,5,E,2,High Impact,7000
+PE32 1AP,PE32,G,1,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 3EN,PE34,G,14,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8AA,PE14,G,16,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+IP26 4RQ,IP26,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 9TB,PE33,G,1,House,Mid-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE34 4RT,PE34,G,1,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE36 5HN,PE36,G,1,Bungalow,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 4SJ,PE34,G,12,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 6NW,PE36,G,11,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 1PF,PE30,G,14,Flat,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 1BW,PE32,G,12,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 7PB,PE31,G,17,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4EW,PE34,G,7,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 6BT,PE31,G,8,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+NR21 9PH,NR21,G,13,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 5AL,PE36,G,16,Flat,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 1NN,PE32,G,13,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8FA,PE31,G,20,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE38 9AH,PE38,G,8,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 9AP,PE14,G,15,Bungalow,Detached,"Boiler and radiators, coal",7,5,E,2,High Impact,7000
+PE30 5RF,PE30,G,3,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 3QN,PE34,G,1,House,Semi-Detached,Portable electric heating assumed for most rooms,7,5,E,2,High Impact,7000
+PE38 0BQ,PE38,G,11,House,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1RN,PE32,G,11,House,Enclosed End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 9TF,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9EL,PE33,G,1,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 3QD,PE34,G,13,House,Mid-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7QB,PE14,G,1,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 8EJ,PE31,G,13,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 7SE,PE14,G,11,House,Semi-Detached,"Boiler and radiators, bottled LPG",7,5,E,2,High Impact,7000
+PE14 8PA,PE14,G,17,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 4BT,PE34,G,15,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 1RJ,PE32,G,11,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 7RB,PE31,G,1,Bungalow,Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE38 9AH,PE38,G,13,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE38 0DX,PE38,G,14,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 8JF,PE14,G,8,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE36 6HX,PE36,G,1,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 8BB,PE31,G,20,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9ES,PE14,G,2,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 2EY,PE32,G,16,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 6AJ,PE36,G,19,Flat,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4LZ,PE34,G,6,House,Mid-Terrace,"Boiler and radiators, bottled gas",7,5,E,2,High Impact,7000
+IP26 4AL,IP26,G,18,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 5ES,PE30,G,19,Flat,Enclosed Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+NR21 9JT,NR21,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE33 9ET,PE33,G,11,House,Mid-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+NR21 9PG,NR21,G,12,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE31 8BP,PE31,G,1,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9AU,PE14,G,20,Flat,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE38 0ES,PE38,G,18,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 9HQ,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1BG,PE32,G,1,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 4QG,PE34,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 9EW,PE14,G,1,House,End-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 2HR,PE32,G,7,House,Mid-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 9RG,PE14,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 7NG,PE31,G,4,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE30 2EQ,PE30,G,15,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE30 5LX,PE30,G,15,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE30 5NP,PE30,G,10,House,End-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 3EW,PE34,G,9,House,Semi-Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE30 2EG,PE30,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE32 1RH,PE32,G,5,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 9HJ,PE33,G,6,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 7LD,PE31,G,13,Bungalow,Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+PE14 8JP,PE14,G,19,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 7BA,PE31,G,4,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 3AR,PE34,G,14,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 3EX,PE34,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE14 8AJ,PE14,G,19,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 8BA,PE31,G,1,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4NR,PE34,G,5,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8HN,PE31,G,3,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4PJ,PE34,G,8,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 4HD,PE30,G,15,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+IP26 4PY,IP26,G,1,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+IP26 4DW,IP26,G,17,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 0LT,PE33,G,18,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1JX,PE32,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE33 9AU,PE33,G,11,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4RQ,PE34,G,17,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 8RG,PE31,G,18,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4JJ,PE34,G,20,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 4PU,PE34,G,10,House,Semi-Detached,"Boiler and radiators, wood logs",7,5,E,2,High Impact,7000
+PE33 9JA,PE33,G,19,House,Semi-Detached,"Boiler and radiators, electric",7,5,E,2,High Impact,7000
+IP26 4NX,IP26,G,10,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE34 3DE,PE34,G,1,Bungalow,Detached,"Room heaters, wood logs",7,5,E,2,High Impact,7000
+PE30 5RF,PE30,G,1,House,End-Terrace,"Room heaters, coal",7,5,E,2,High Impact,7000
+IP26 5NF,IP26,G,1,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+IP26 4AF,IP26,G,17,House,End-Terrace,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE14 7BQ,PE14,G,19,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6AU,PE31,G,11,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 7LR,PE31,G,7,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 2AZ,PE32,G,5,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8PA,PE14,G,16,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 1HW,PE30,G,11,House,End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4LE,PE34,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 6BT,PE31,G,8,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6HT,PE31,G,15,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+IP26 4LS,IP26,G,9,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 6BN,PE31,G,7,House,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE36 5BA,PE36,G,20,Bungalow,Detached,"Room heaters, mains gas",7,5,E,2,High Impact,7000
+PE33 0RQ,PE33,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 6AU,PE31,G,16,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE38 0PL,PE38,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 1DZ,PE30,G,17,House,Semi-Detached,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE32 1JW,PE32,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE38 0PN,PE38,G,19,House,Semi-Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 8AP,PE14,G,13,House,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 1PB,PE32,G,7,House,Detached,"Boiler and radiators, wood logs",7,5,E,2,High Impact,7000
+PE34 4HD,PE34,G,1,House,Detached,"Boiler and radiators, bottled LPG",7,5,E,2,High Impact,7000
+PE38 0EP,PE38,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+NR21 9PG,NR21,G,7,House,Detached,"Boiler and radiators, bottled gas",7,5,E,2,High Impact,7000
+PE34 3AR,PE34,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 6AZ,PE31,G,7,Bungalow,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+IP26 4QX,IP26,G,19,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE35 6EN,PE35,G,19,Flat,Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE36 5EL,PE36,G,1,Flat,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE36 5NQ,PE36,G,17,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE36 5NY,PE36,G,15,Bungalow,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 7DZ,PE31,G,19,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 7RP,PE14,G,9,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 4NT,PE30,G,8,House,Semi-Detached,Portable electric heating assumed for most rooms,7,5,E,2,High Impact,7000
+NR21 9PB,NR21,G,15,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+IP26 4PQ,IP26,G,7,House,Mid-Terrace,"Room heaters, coal",7,5,E,2,High Impact,7000
+NR21 9LY,NR21,G,20,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE30 3QJ,PE30,G,1,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE34 3BT,PE34,G,6,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 1LN,PE32,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE32 1EE,PE32,G,1,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8JR,PE14,G,17,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE30 5EF,PE30,G,20,Flat,Enclosed End-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+IP26 5LG,IP26,G,20,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 4NF,PE34,G,2,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 8TD,PE14,G,11,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 9HE,PE14,G,17,House,End-Terrace,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8EB,PE31,G,20,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE32 1AF,PE32,G,4,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE34 4PR,PE34,G,7,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+NR21 9JT,NR21,G,3,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE31 8SZ,PE31,G,13,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+NR21 9PF,NR21,G,11,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE34 4AU,PE34,G,19,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+IP26 4AY,IP26,G,20,House,Semi-Detached,"Boiler and radiators, wood pellets",7,5,E,2,High Impact,7000
+PE14 8PA,PE14,G,1,House,Semi-Detached,"Boiler and radiators, wood logs",7,5,E,2,High Impact,7000
+PE36 6NF,PE36,G,2,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE13 3TU,PE13,G,1,House,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE14 9PG,PE14,G,17,Bungalow,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 6BU,PE31,G,1,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE31 8JS,PE31,G,8,House,Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE31 6TU,PE31,G,11,Bungalow,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 8EY,PE14,G,9,House,Semi-Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE31 8JY,PE31,G,20,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE14 7JA,PE14,G,11,House,Detached,"Boiler and radiators, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+IP26 4PQ,IP26,G,20,House,Semi-Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE36 6NH,PE36,G,14,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE32 1WA,PE32,G,17,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 8PW,PE31,G,4,Maisonette,Enclosed Mid-Terrace,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE36 5BU,PE36,G,16,House,End-Terrace,"Boiler and radiators, mains gas",7,5,E,2,High Impact,7000
+PE32 1ER,PE32,G,1,Bungalow,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE31 7LJ,PE31,G,1,House,End-Terrace,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE30 2PU,PE30,G,15,House,Mid-Terrace,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 7RB,PE31,G,1,Bungalow,Detached,"Room heaters, LPG",7,5,E,2,High Impact,7000
+PE31 8RG,PE31,G,1,House,End-Terrace,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7AY,PE14,G,20,Bungalow,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 8LT,PE31,G,19,House,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE33 9DS,PE33,G,12,House,Semi-Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE36 5EL,PE36,G,2,Flat,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE32 1JW,PE32,G,1,House,Semi-Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE33 9EA,PE33,G,16,House,Semi-Detached,No system present: electric heaters assumed,7,5,E,2,High Impact,7000
+PE36 5LB,PE36,G,1,House,Semi-Detached,"Room heaters, coal",7,5,E,2,High Impact,7000
+PE34 4BG,PE34,G,16,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE34 3HL,PE34,G,13,Bungalow,Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+IP26 4AT,IP26,G,20,Bungalow,Detached,"Warm air, LPG",7,5,E,2,High Impact,7000
+PE32 1RJ,PE32,G,15,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 8AY,PE31,G,6,House,Detached,Electric storage heaters,7,5,E,2,High Impact,7000
+PE31 8HA,PE31,G,18,House,Detached,"Boiler and radiators, oil",7,5,E,2,High Impact,7000
+PE31 7RB,PE31,G,10,Bungalow,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+PE31 7QD,PE31,G,7,House,Semi-Detached,"Room heaters, dual fuel (mineral and wood)",7,5,E,2,High Impact,7000
+PE14 7NP,PE14,G,6,House,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 4PY,PE34,G,10,House,Semi-Detached,"Room heaters, electric",7,5,E,2,High Impact,7000
+PE14 7EX,PE14,G,14,House,Detached,Portable electric heaters assumed for most rooms,7,5,E,2,High Impact,7000
+NR21 9JT,NR21,G,20,House,Semi-Detached,"Boiler and radiators, smokeless fuel",7,5,E,2,High Impact,7000
+PE34 4PZ,PE34,G,9,House,Mid-Terrace,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE34 3PW,PE34,G,18,Bungalow,Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
+PE14 7EU,PE14,G,7,House,Semi-Detached,"Boiler and radiators, LPG",7,5,E,2,High Impact,7000
