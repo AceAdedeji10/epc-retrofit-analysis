@@ -32,3 +32,18 @@ The analysis shows how a targeted investment approach can upgrade a significant 
 ## Why This Matters
 
 This project demonstrates how data can move beyond reporting into decision support, helping to prioritise housing improvements in a practical and scalable way.
+
+## Power BI Dashboard
+
+A Power BI dashboard was created to visualise the analysis and simulate a retrofit investment scenario.
+
+Key views include:
+
+- Current energy performance across properties  
+- Predicted EPC improvements  
+- Budget allocation and funded homes  
+- Geographic distribution of retrofit impact  
+
+The dashboard demonstrates how data can move from analysis to decision support in a housing context.
+
+**File:** `retrofit_analysis_dashboard.pbix`
